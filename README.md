@@ -1,4 +1,4 @@
-# LIMKS
+# PERFORMANCE MODS
 
 IRIS                     = https://modrinth.com/mod/iris<br>
 SODIUM                   = https://modrinth.com/mod/sodium/versions<br>
