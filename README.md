@@ -1,6 +1,6 @@
 # PERFORMANCE MODS
 
-<b>IRIS</b>                     = https://modrinth.com/mod/iris <br>shader sapot<br><br>
+<strong>IRIS</strong>                     = https://modrinth.com/mod/iris <br>shader sapot<br><br>
 <b>SODIUM</b>                   = https://modrinth.com/mod/sodium <br>performance and fps optimize<br><br>
 <b>FABRIC API</b>               = https://modrinth.com/mod/fabric-api <br>connects all mods<br><br>
 
